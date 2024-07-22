@@ -1,4 +1,4 @@
-default_layout "3-dev"
+default_layout "2-dev"
 
 keybinds {
     shared_except "locked" {
